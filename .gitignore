@@ -1,0 +1,4 @@
+*__pycache
+*scripts
+pytest.ini
+.vscode
